@@ -1,0 +1,16 @@
+{
+  "passwords": [
+    {
+      "name": "George",
+      "email": "Example",
+      "password": "1234",
+      "site": "Site"
+    },
+    {
+      "name": "JSON",
+      "email": "EXAMPLE",
+      "password": "0123",
+      "site": "SOMETHING"
+    }
+  ]
+}
